@@ -1,0 +1,9 @@
+name: "yuan-website"
+output_dir: "."
+navbar:
+  title: "Yuan Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html

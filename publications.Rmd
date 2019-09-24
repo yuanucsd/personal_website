@@ -2,6 +2,8 @@
 title: "Publications"
 ---
 
+***
+
 ### Upcoming posters
 
 * Chai, Y. 12/2019. The neutralization of Xiapu Min tones in disyllabic tone sandhi forms. ASA 2019.
@@ -13,7 +15,7 @@ title: "Publications"
 
 ### Conference presentations
 
-* Chai, Y. 8/2019. The source of creak in Mandarin utterances. ICPhS 2019. [proceeding](file/proceeding_icphs2019_yc.pdf) [slides](file/slides_icphs2019_yc.pdf) [data](https://doi.org/10.17605/OSF.IO/XR8D7)
+* Chai, Y. 8/2019. The source of creak in Mandarin utterances. ICPhS 2019. [proceedings](file/proceeding_icphs2019_yc.pdf) [slides](file/slides_icphs2019_yc.pdf) [data](https://doi.org/10.17605/OSF.IO/XR8D7)
 * Chai, Y. 2/2018. Less proficient, more gestures? BLS 44. [manuscript](file/manuscript_bls_yc.pdf)
 
 

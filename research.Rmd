@@ -12,7 +12,11 @@ suppressMessages(library(knitr))
 
 
 ***
+### Checked syllable
+Checked syllables usually have the characteristics of being short, having glottalization at the end of the syllable, and being associated with specific tones. Such syllables are usually found in Chinese languages and Otomanguean languages. Xiapu Min, the language I do fieldwork on, has such syllables (i.e. Checked tone 5 /θiʔ5/湿 "wet"). However, there has not been consensus on what the acoustic and articulatory features of checked syllables are cross-linguistically. My dissertation topic is "Production and perception of checked syllable", aiming to investigate how checked syllables are produced and what acoustic features are important for listeners to identify a checked syllable.
 
+
+***
 ### Fieldwork on Xiapu Min
 
 Xiapu Min is a variety of Min language mainly spoken in the county of Xiapu in southeastern China with approximately 500, 000 speakers. I started the documentation work on Xiapu Min in the summer of 2018. I am currently investigating the tone sandhi system of Xiapumin through measuring the degree of acoustic and articulatory neutralization after tone sandhi. The picture below is a F0 track of the seven tones in Xiapu Min.

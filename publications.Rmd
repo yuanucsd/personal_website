@@ -8,11 +8,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ***
 
-### Upcoming posters
-
-* Chai, Y. & Garellek, M. 12/2019. Using H1 instead of H1–H2 as an acoustic correlate of glottal constriction. ASA 2019. [poster](file/Chai_Garellek_ASA_F2019.pdf)
-* Chai, Y. & Ye, S. 12/2019. The neutralization of Xiapu Min tones in disyllabic tone sandhi forms. ASA 2019. [poster](file/Chai_ASA_F2019_print.pdf)
-* Huang, Y & Chai, Y. 12/2019. Voice quality of coarticulated Mandarin tones. ASA 2019. [poster](file/Huang_Chai_ASA_F2019_print.pdf)
+### Upcoming presentation
+* Chai, Y. 5/2019. The role of tone in TAM, verb class, and subject agreement in Rere. ACAL 51.
 
 
 ***
@@ -26,6 +23,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ***
 
 ### Poster
+* Chai, Y. & Garellek, M. 12/2019. Using H1 instead of H1–H2 as an acoustic correlate of glottal constriction. ASA 2019. [poster](file/Chai_Garellek_ASA_F2019.pdf)
+* Chai, Y. & Ye, S. 12/2019. The neutralization of Xiapu Min tones in disyllabic tone sandhi forms. ASA 2019. [poster](file/Chai_ASA_F2019_print.pdf)
+* Huang, Y & Chai, Y. 12/2019. Voice quality of coarticulated Mandarin tones. ASA 2019. [poster](file/Huang_Chai_ASA_F2019_print.pdf)
 * Chai, Y. 1/2019. The source of creak in Mandarin utterances: F0 or position-motivated? [poster](file/poster_lsa2019_yc.pdf)
 
 ***

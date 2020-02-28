@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ***
 
-### Poster
+### Posters
 * Chai, Y. & Garellek, M. 12/2019. Using H1 instead of H1–H2 as an acoustic correlate of glottal constriction. ASA 2019. [poster](file/Chai_Garellek_ASA_F2019.pdf)
 * Chai, Y. & Ye, S. 12/2019. The neutralization of Xiapu Min tones in disyllabic tone sandhi forms. ASA 2019. [poster](file/Chai_ASA_F2019_print.pdf)
 * Huang, Y & Chai, Y. 12/2019. Voice quality of coarticulated Mandarin tones. ASA 2019. [poster](file/Huang_Chai_ASA_F2019_print.pdf)

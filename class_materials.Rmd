@@ -1,0 +1,27 @@
+---
+title: "Class materials deposit"
+---
+```{r echo=FALSE, message = FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                     fig.align = 'center',
+                     options(warn=-1))
+suppressMessages(library(rmarkdown))
+suppressMessages(library(knitr))
+```
+
+
+
+***
+### PSYC 241 2020
+[25A_ep1](file/sample_sound/25A_ep1.wav)
+[25A_ep2](file/sample_sound/25A_ep2.wav)
+[25A_ep3](file/sample_sound/25A_ep3.wav)
+[35A_ep1](file/sample_sound/35A_ep1.wav)
+[35A_ep2](file/sample_sound/35A_ep2.wav)
+[35A_ep3](file/sample_sound/35A_ep3.wav)
+[36A_ep1](file/sample_sound/36A_ep1.wav)
+[36A_ep2](file/sample_sound/36A_ep2.wav)
+[36A_ep3](file/sample_sound/36A_ep3.wav)
+[98A_noise](file/sample_sound/98A_noise.wav)
+[99B_noise](file/sample_sound/99B_noise.wav)
+[118A_noise](file/sample_sound/118A_noise.wav)

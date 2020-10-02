@@ -15,6 +15,12 @@ suppressMessages(library(knitr))
 ### Checked syllable
 Checked syllables usually have the characteristics of being short, having glottalization at the end of the syllable, and being associated with specific tones. Such syllables are usually found in Chinese languages and Otomanguean languages. Xiapu Min, the language I do fieldwork on, has such syllables (i.e. Checked tone 5 /θiʔ5/湿 "wet"). However, there has not been consensus on what the acoustic and articulatory features of checked syllables are cross-linguistically. My dissertation topic is "Production and perception of checked syllable", aiming to investigate how checked syllables are produced and what acoustic features are important for listeners to identify a checked syllable.
 
+***
+### Fieldwork on San Francisco Yatee Zapotec
+
+San Francisco Yatee Zapotec is spoken in the town of San Francisco Yatee, north of Oaxaca, Mexico. I started the documentation work on Yatee Zapotec in the spring of 2020. I am currently doing remote fieldwork with a speaker of Yatee Zapotec. My main goal is to figure out the sound system of Yatee Zapotec while my main focus is on the phonation type, tone, and their interaction in the language.
+
+
 
 ***
 ### Fieldwork on Xiapu Min

@@ -10,6 +10,5 @@ suppressMessages(library(rmarkdown))
 suppressMessages(library(knitr))
 ```
 
-### Classes
 * [PSYC241 Winter 2020](PSYC241.html)
 * [LIGN110 Phonetics Fall 2020](lign110_site.html)

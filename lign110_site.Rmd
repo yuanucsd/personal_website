@@ -1,0 +1,33 @@
+---
+title: "Materials for LIGN 110 Section M 9-9:50 AM"
+---
+
+
+```{r echo=FALSE, message = FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                     fig.align = 'center',
+                     options(warn=-1))
+suppressMessages(library(rmarkdown))
+suppressMessages(library(knitr))
+suppressMessages(library(tidyverse))
+
+```
+
+
+
+* [W1 exercise](file/lign110/Week1_9amSection_YC.docx) Keys
+* W2 exercise Keys
+* W3 exercise Keys
+* W4 exercise Keys
+* W5 exercise Keys
+* W6 exercise Keys
+* W7 exercise Keys
+* W8 exercise Keys
+* W9 exercise Keys
+* W10 exercise Keys
+
+
+
+
+
+

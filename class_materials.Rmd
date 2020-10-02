@@ -11,4 +11,4 @@ suppressMessages(library(knitr))
 ```
 
 * [PSYC241 Winter 2020](PSYC241.html)
-* [LIGN110 Phonetics Fall 2020](lign110_site.html)
+* [LIGN110 Phonetics Fall 2020](lign110fall2020.html)

@@ -15,8 +15,8 @@ suppressMessages(library(tidyverse))
 
 
 
-* [W1 exercise](file/lign110/Week1_9amSection_YC.docx) Keys
-* W2 exercise Keys
+* [W1 exercise](file/lign110/Week1_9amSection_YC.docx) [Keys](file/lign110/Week1_9amSection_YC_with_keys.docx)
+* [W2 exercise](file/lign110/Week2_LIGN110Section25202_YC.pdf) Keys
 * W3 exercise Keys
 * W4 exercise Keys
 * W5 exercise Keys

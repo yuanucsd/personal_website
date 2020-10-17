@@ -27,6 +27,7 @@ suppressMessages(library(tidyverse))
 [Sound 7](file/lign110/W3_sound/Sound_7.wav)
 [Sound 8](file/lign110/W3_sound/Sound_8.wav)
 [Sound 9](file/lign110/W3_sound/Sound_9.wav)
+
 * W4 exercise Keys
 * W5 exercise Keys
 * W6 exercise Keys

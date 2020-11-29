@@ -21,9 +21,9 @@ suppressMessages(library(tidyverse))
 * [W4 exercise](file/lign110/Week4_LIGN110Section25202_YC.pdf) [Keys](file/lign110/Week4_LIGN110Section25202_YC_with_keys.pdf) [Sound 1](file/lign110/W4_sound/Sound_1.wav) [Sound 2](file/lign110/W4_sound/Sound_2.wav) [Sound 3](file/lign110/W4_sound/Sound_3.wav) [Sound 4](file/lign110/W4_sound/Sound_4.wav) [Sound 5](file/lign110/W4_sound/Sound_5.wav)
 * [W5 exercise](file/lign110/Week5_LIGN110Section25202_YC.pdf) [Keys](file/lign110/Week5_LIGN110Section25202_YC_with_keys.pdf) [Sound 1](file/lign110/W5_sound/Sound_1.wav) [Sound 2](file/lign110/W5_sound/Sound_2.wav) [Sound 3](file/lign110/W5_sound/Sound_3.wav)
 * [W6 exercise](file/lign110/Week6_LIGN110Section25202_YC.pdf) [Keys](file/lign110/Week6_LIGN110Section25202_YC_with_keys.pdf)
-* [W7 exercise](file/lign110/Week7_LIGN110Section25202_YC.pdf) Keys
-* W8 exercise Keys
-* W9 exercise Keys
+* [W7 exercise](file/lign110/Week7_LIGN110Section25202_YC.pdf) [Keys](file/lign110/Week7_LIGN110Section25202_YC_with_keys.pdf)
+* [W8 exercise](file/lign110/Week8_LIGN110Section25202_YC.pdf)
+* [W9 exercise](file/lign110/Week9_LIGN110Section25202_YC.pdf)
 * W10 exercise Keys
 
 

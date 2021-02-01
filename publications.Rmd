@@ -7,6 +7,12 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ***
+* Chai, Y., Kunda, T., Rodríguez, A. & Rose, S. The prosody of declaratives and
+questions in Rere. To appear, Prosody and Prosodic Interfaces, Oxford.
+* Caballero, G., Chai, Y. & Garellek, M. Stress, tone, and intonation in Choguita Rarámuri. To appear, Prosody and Prosodic Interfaces, Oxford.
+
+
+***
 
 ### Upcoming presentation
 * Chai, Y. 5/2020. The role of tone in TAM, verb class, and subject agreement in Rere. ACAL 51.

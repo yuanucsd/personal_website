@@ -8,21 +8,18 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ***
 * Chai, Y., Kunda, T., Rodríguez, A. & Rose, S. The prosody of declaratives and
-questions in Rere. To appear, Prosody and Prosodic Interfaces, Oxford.
-* Caballero, G., Chai, Y. & Garellek, M. Stress, tone, and intonation in Choguita Rarámuri. To appear, Prosody and Prosodic Interfaces, Oxford.
+questions in Rere. To appear. In H. Kubozono, J. Ito & A. Mester (Eds.), Prosody and Prosodic Interfaces, Oxford: Oxford University Press. [pre-print](file/Chai_et_al_The_Prosody_of_Questions_in_Rere.pdf)
+* Caballero, G., Chai, Y. & Garellek, M. Stress, tone, and intonation in Choguita Rarámuri. To appear. In H. Kubozono, J. Ito & A. Mester (Eds.), Prosody and Prosodic Interfaces, Oxford: Oxford University Press. [pre-print](file/Caballero_et_al_Raramuri_prosody)
+* Garellek, M., Chai, Y., Huang, Y. & Van Doren, M. Voicing of glottal consonants and non-modal vowels. To appear. Journal of the International Phonetic Association. [pre-print](https://osf.io/rs89n/)
+* Chai, Y. 8/2019. The source of creak in Mandarin utterances. ICPhS 2019. [proceedings](file/Chai_Mandarin_creak_icphs2019.pdf) [revised version](https://escholarship.org/uc/item/8mg0x5pb#main)
 
 
 ***
 
-### Upcoming presentation
-* Chai, Y. 5/2020. The role of tone in TAM, verb class, and subject agreement in Rere. ACAL 51.
-
-
-***
 
 ### Conference presentations
-
-* Chai, Y. 8/2019. The source of creak in Mandarin utterances. ICPhS 2019. [proceedings](file/proceeding_icphs2019_yc.pdf) [slides](file/slides_icphs2019_yc.pdf) [data](https://doi.org/10.17605/OSF.IO/XR8D7)
+* Chai, Y. 5/2020 (canceled due to COVID). The role of tone in TAM, verb class, and subject agreement in Rere. ACAL 51. [abstract](file/Chai_ACAL_abstract.pdf)
+* Chai, Y. 8/2019. The source of creak in Mandarin utterances. ICPhS 2019. [slides](file/slides_icphs2019_yc.pdf) [data](https://doi.org/10.17605/OSF.IO/XR8D7)
 * Chai, Y. 2/2018. Less proficient, more gestures? BLS 44. [manuscript](file/manuscript_bls_yc.pdf)
 
 
@@ -36,6 +33,4 @@ questions in Rere. To appear, Prosody and Prosodic Interfaces, Oxford.
 ***
 
 ### Unpublished manuscript
-* Chai, Y. 5/2017. Predicting Discrimination Accuracy of English Vowels by Native-Mandarin Learners. Unpublished master's thesis. University of Colorado Boulder, Boulder, USA. [manuscript](file/ma_thesis_yc.pdf)
-
-
+* Chai, Y. 5/2017. Predicting Discrimination Accuracy of English Vowels by Native-Mandarin Learners. Unpublished master's thesis. University of Colorado Boulder, Boulder, USA. [manuscript](https://escholarship.org/uc/item/44b0m25r)

@@ -14,3 +14,5 @@ Email: yuc521@ucsd.edu
 Office: AP&M 4432
 
 My full CV is available [here](file/CV_yuanchai.pdf).
+
+My GitHub page is https://github.com/ychaiucsd/source-code.

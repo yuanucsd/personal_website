@@ -1,0 +1,32 @@
+---
+title: "Teaching evalutions"
+---
+```{r echo=FALSE, message = FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                     fig.align = 'center',
+                     options(warn=-1))
+suppressMessages(library(rmarkdown))
+suppressMessages(library(knitr))
+```
+
+### Instructor-of-record
+
+
+* [Winter 2021](file/TA_evaluation/WI21A-Associate-in.pdf) LIGN 8 Languages and Cultures of America
+
+
+***
+### Teaching assistant
+
+
+* [Fall 2017](file/TA_evaluation/FA17.pdf) LIGN 8 Languages and Cultures of America
+* [Winter 2018](file/TA_evaluation/WI18.pdf) LIGN 112 Speech Sounds and Speech Disorders
+* [Spring 2018](file/TA_evaluation/SP18.pdf) LIGN 8 Languages and Cultures of America
+* [Fall 2018](file/TA_evaluation/FA18.pdf) LIGN 110 Phonetics
+* [Winter 2019](file/TA_evaluation/WI19.pdf) LIGN 8 Languages and Cultures of America
+* [Spring 2019](file/TA_evaluation/SP19.pdf) LIGN 8 Languages and Cultures of America
+* [Fall 2019](file/TA_evaluation/FA19.pdf) LIDS 19 Directed Study-Language
+* [Winter 2020](file/TA_evaluation/WI20.pdf) LIDS 19 Directed Study-Language
+* [Spring 2020](file/TA_evaluation/SP20.pdf) LIGN 8 Languages and Cultures of America
+* [Fall 2020](file/TA_evaluation/FA20.pdf) LIGN 110 Phonetics
+* [Spring 2021](file/TA_evaluation/SP21.pdf) LIGN 101 Introduction/Study to Language

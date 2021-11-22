@@ -30,6 +30,7 @@ questions in Rere. To appear. In H. Kubozono, J. Ito & A. Mester (Eds.), Prosody
 ***
 
 ### Posters
+* Chai, Y & Ye, S. 12/2021. Perception of checked tones in Xiapu Min. ASA 2021.
 * Chai, Y. & Garellek, M. 12/2019. Using H1 instead of H1–H2 as an acoustic correlate of glottal constriction. ASA 2019. [poster](file/Chai_Garellek_ASA_F2019.pdf)
 * Chai, Y. & Ye, S. 12/2019. The neutralization of Xiapu Min tones in disyllabic tone sandhi forms. ASA 2019. [poster](file/Chai_ASA_F2019_print.pdf)
 * Chai, Y. 1/2019. The source of creak in Mandarin utterances: F0 or position-motivated? [poster](file/poster_lsa2019_yc.pdf)

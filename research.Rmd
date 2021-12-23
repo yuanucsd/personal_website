@@ -32,7 +32,7 @@ In sandhi forms, checked tones are neurtralized with unchecked tones in F0 and v
 The manuscript of this study has been submitted to [Languages special issue](https://www.mdpi.com/journal/languages/special_issues/Phonation_Prosody) and currently under review. [manuscript](file/XM_checked_tone_YC_YS.pdf)
 
 
-##### A minimal pair of the seven lexical tones in Xiapu Min
+* A minimal pair of the seven lexical tones in Xiapu Min
 ```{r}
 minimal_pair = data.frame(Segment = c("/&#x03B8;i44/","/&#x03B8;i42/","/&#x03B8;i35/","/&#x03B8;i23/","/&#x03B8;i11/","/&#x03B8;i&#x0294;5/","/&#x03B8;i&#x0294;2/"),Word = c("&#x8BD7;","&#x6B7B;","&#x56DB;","&#x662F;","&#x65F6;","&#x6E7F;","&#x5B9E;"),Gloss = c("poem","die","four","to be","time","wet","concrete"))
 
@@ -54,7 +54,7 @@ We manipulated those three variables and invited Xiapu Min listeners to particip
 The results have been presented as a poster at 181st Annual Meeting of Acoustic Society of America. [poster](file/Chai_ASA_F2021_print.pdf)
 
 
-#####Spectrogram of sample manipuated stimuli (Top-left: F0 of T5, Long, Modal; Top-right: F0 of T5, Short, Modal; Bottom-left: F0 of T5, Long, Creaky; Bottom-right: F0 of T5, Short, Creaky)
+* Spectrogram of sample manipuated stimuli (Top-left: F0 of T5, Long, Modal; Top-right: F0 of T5, Short, Modal; Bottom-left: F0 of T5, Long, Creaky; Bottom-right: F0 of T5, Short, Creaky)
 <center>
 <img src="image/spectro_5longshort.png" style="width:50%">
 <img src="image/spectro_5gllongshort.png" style="width:50%">

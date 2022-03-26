@@ -17,7 +17,7 @@ suppressMessages(library(knitr))
 
 ***
 ### Teaching assistant
-
+* [Winter 2022](file/TA_evaluation/WI22.pdf) LIDS 19 Directed Study-Language
 * [Spring 2021](file/TA_evaluation/SP21.pdf) LIGN 101 Introduction/Study to Language
 * [Fall 2020](file/TA_evaluation/FA20.pdf) LIGN 110 Phonetics
 * [Spring 2020](file/TA_evaluation/SP20.pdf) LIGN 8 Languages and Cultures of America

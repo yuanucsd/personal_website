@@ -7,11 +7,11 @@ title: "Yuan Chai [ɥɛn˩˥ ʈʂʰai˩˥] 柴媛"
 <img src="image/photo_yuanchai.jpg" style="width:25%; margin-right: 20px" align="left">
 
 
-I'm a fifth-year Ph.D. candidate majoring in linguistics at UC San Diego. My research interests are in voice quality and second language acquisition. 
+I'm a Ph.D. in linguistics from UC San Diego. My research interests are in language documentation, voice quality, and second language acquisition. 
 
 Email: yuc521@ucsd.edu
 
-Office: AP&M 3301
+My dissertation is available [here](file/Dissertation_yuanchai.pdf).
 
 My full CV is available [here](file/CV_yuanchai.pdf).
 

@@ -14,6 +14,25 @@ suppressMessages(library(knitr))
 ```
 
 
+***
+### Fieldwork on San Francisco Yatee Zapotec
+
+San Francisco Yatee Zapotec is spoken in the town of San Francisco Yatee, north of Oaxaca, Mexico. I started the documentation work on Yatee Zapotec in the spring of 2020. I am currently doing fieldwork with two native speakers of Yatee Zapotec. My main goal is to figure out the sound system of Yatee Zapotec while my main focus is on the phonation type, tone, and their interaction in the language.
+
+Yatee Zapotec has three phonation types: modal, checked, and rearticulated phonations. Checked phonation has late-phased glottalization relative to vowels; rearticulated phonation has mid-phased glottalization relative to vowels. The acoustics of the phonation types in Yatee Zapotec as presented as a [poster](file/Chai_Fernandez_Mendez_ASA_S2023.pdf) at the 184th meeting of Acoustic Society of America in Chicago.
+
+A report of the sound inventory of the language has been presented at the [PhonCo group](http://phonco.ucsd.edu/) of the Department of Linguistics at UCSD. [slides](file/phonco_slides_YZ_YC.pdf)
+
+<a href="#top">Back to top</a>
+
+***
+### Acoustics of creaky voice
+
+"Creaky voice" refers to a number of different kinds of voice production with similar percepts. Collaborating with Patricia Keating, Marc Garellek, and Jody Kreiman, we study the acoustic properties of different kinds of creaky voice. There are three key properties of creaky voice: low F0, irregular F0, and constricted glottis. Prototypical creaky voice has all three properties. We find that none of the three properties are necessary to create a creaky percept. Low F0 and irregular F0 alone are sufficient to create a creaky percept. The combination of low F0 and irregular F0; and of low F0 and constricted F0 are also sufficient to create a creaky percept.
+
+Our finds were presented as a [poster](file/Keating_et_al_ASA_S2023.pdf) at the 184th meeting of Acoustic Society of America in Chicago.
+
+<a href="#top">Back to top</a>
 
 ***
 ### Checked syllables, vowels, and tones
@@ -64,16 +83,6 @@ The results have been presented as a poster at 181st Annual Meeting of Acoustic 
 
 <a href="#top">Back to top</a>
 
-
-***
-### Fieldwork on San Francisco Yatee Zapotec
-
-San Francisco Yatee Zapotec is spoken in the town of San Francisco Yatee, north of Oaxaca, Mexico. I started the documentation work on Yatee Zapotec in the spring of 2020. I am currently doing remote fieldwork with two native speakers of Yatee Zapotec. My main goal is to figure out the sound system of Yatee Zapotec while my main focus is on the phonation type, tone, and their interaction in the language.
-
-
-A preliminary report of the sound inventory of the language has been presented at the [PhonCo group](http://phonco.ucsd.edu/) of the Department of Linguistics at UCSD. [slides](file/phonco_slides_YZ_YC.pdf)
-
-<a href="#top">Back to top</a>
 
 ***
 

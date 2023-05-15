@@ -7,13 +7,19 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ***
-* Chai, Y. & Ye, S. In press. Checked syllables, checked tones, and tone sandhi in Xiapu Min. Languages. [manuscript](file/XM_checked_tone_YC_YS.pdf)
+### Journal articles
+* Chai, Y. & Garellek, M. 2022. On H1–H2 as an acoustic measure of linguistic phonation type. JASA. 152, 1856–1870  [manuscript](file/Chai_Garellek_2022_JASA_preprint.pdf)
+* Chai, Y. & Ye, S. 2022. Checked syllables, checked tones, and tone sandhi in Xiapu Min. Languages. [manuscript](file/XM_checked_tone_YC_YS.pdf)
 * Chai, Y., Kunda, T., Rodríguez, A. & Rose, S. The prosody of declaratives and
-questions in Rere. To appear. In H. Kubozono, J. Ito & A. Mester (Eds.), Prosody and Prosodic Interfaces, Oxford: Oxford University Press. [pre-print](file/Chai_et_al_The_Prosody_of_Questions_in_Rere.pdf)
-* Caballero, G., Chai, Y. & Garellek, M. Stress, tone, and intonation in Choguita Rarámuri. To appear. In H. Kubozono, J. Ito & A. Mester (Eds.), Prosody and Prosodic Interfaces, Oxford: Oxford University Press. [pre-print](file/Caballero_et_al_Raramuri_prosody.pdf)
-* Garellek, M., Chai, Y., Huang, Y. & Van Doren, M. Voicing of glottal consonants and non-modal vowels. To appear. Journal of the International Phonetic Association. [pre-print](https://osf.io/rs89n/)
-* Chai, Y. 8/2019. The source of creak in Mandarin utterances. ICPhS 2019. [proceedings](file/Chai_Mandarin_creak_icphs2019.pdf) [revised version](https://escholarship.org/uc/item/8mg0x5pb#main)
+questions in Rere. 2022. In H. Kubozono, J. Ito & A. Mester (Eds.), Prosody and Prosodic Interfaces, Oxford: Oxford University Press. [pre-print](file/Chai_et_al_The_Prosody_of_Questions_in_Rere.pdf)
+* Caballero, G., Chai, Y. & Garellek, M. Stress, tone, and intonation in Choguita Rarámuri. 2022. In H. Kubozono, J. Ito & A. Mester (Eds.), Prosody and Prosodic Interfaces, Oxford: Oxford University Press. [pre-print](file/Caballero_et_al_Raramuri_prosody.pdf)
+* Garellek, M., Chai, Y., Huang, Y. & Van Doren, M. Voicing of glottal consonants and non-modal vowels. 2021. Journal of the International Phonetic Association. [pre-print](https://osf.io/rs89n/)
+* Chai, Y. 2019. The source of creak in Mandarin utterances. ICPhS 2019. [proceedings](file/Chai_Mandarin_creak_icphs2019.pdf) [revised version](https://escholarship.org/uc/item/8mg0x5pb#main)
 
+***
+
+### Dissertation
+* Chai, Y. 2022. Phonetics and phonology of checked phonation, syllables, and tones. [manuscript](file/Dissertation_yuanchai.pdf)
 
 ***
 
@@ -27,7 +33,9 @@ questions in Rere. To appear. In H. Kubozono, J. Ito & A. Mester (Eds.), Prosody
 ***
 
 ### Posters
-* Chai, Y & Ye, S. 12/2021. Perception of checked tones in Xiapu Min. ASA 2021. [poster](file/Chai_ASA_F2021_print.pdf)
+* Keating, P., Garellek, M., Kreiman, J. & Chai, Y. 05/2023. Acoustic properties of subtypes of creaky voice. [poster](file/Keating_et_al_ASA_S2023.pdf)
+* Chai, Y., Fernandez, A. & Mendez, B. 05/2023. Acoustics of the creaky phonations in Yateé Zapotec. ASA 2023. [poster](file/Chai_Fernandez_Mendez_ASA_S2023.pdf)
+* Chai, Y. & Ye, S. 12/2021. Perception of checked tones in Xiapu Min. ASA 2021. [poster](file/Chai_ASA_F2021_print.pdf)
 * Chai, Y. & Garellek, M. 12/2019. Using H1 instead of H1–H2 as an acoustic correlate of glottal constriction. ASA 2019. [poster](file/Chai_Garellek_ASA_F2019.pdf)
 * Chai, Y. & Ye, S. 12/2019. The neutralization of Xiapu Min tones in disyllabic tone sandhi forms. ASA 2019. [poster](file/Chai_ASA_F2019_print.pdf)
 * Chai, Y. 1/2019. The source of creak in Mandarin utterances: F0 or position-motivated? [poster](file/poster_lsa2019_yc.pdf)

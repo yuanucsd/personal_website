@@ -1,0 +1,49 @@
+File name :\SYNTHESIS\WORK\vowel_a_10000_01182023_test\vowel_a_10000_01182023_test.Vtxt
+
+Ee = -2.43736
+Tp = 0.00254294 sec
+Te = 0.0032 sec
+T2 = 0.00370583 sec
+Tc = 0.0043 sec
+
+Synthetic Tremor Deviation = 0
+Synthetic Tremor Frequency = 0
+Synthetic Jitter Deviation = 0
+Add Synthetic Jitter = 1
+Synthetic Shimmer Deviation = 0
+Add Synthetic Shimmer = 1
+Synthetic Noise = -50 dB
+Synthetic FM CutOff = 12
+Original Tremor = 0
+Original Amplitude Modulation = 1
+Synthetic Data Length (sec) = 1.041 sec
+Output Synthetic Data Length (sec) = 1 sec
+F0 = 232 Hz
+Upsample Factor = 4
+Downsample Individual cycles = 0
+Noise Filter Approximation Type = 1
+Noise Number Of Segments = 25
+LPC Order = 14
+AM Frequency CutOff = 12
+PSD Window Length = 40
+PSD Overlap Segments = 0
+PSD Number Of Segments = 8
+PSD Preemphasis = 0
+CutOff Quefrency = 0.9
+Recompute Noise = 0
+Mark IFFTd Cycles Type = 0
+DFT Number Of Cycles = 20
+Demean Speech Prev FFT = 0
+High Pass Lifter = 0
+Random Tremor = 1
+Sinusoidal Tremor = 0
+FM CutOff = 12
+Apply Noise = 1
+Inverse Filtered Source smoothing number of points = 5
+Noise approximation correction points = 30
+
+F1 = 1168 Hz     B1 = 560 Hz 
+F2 = 1699 Hz     B2 = 245 Hz 
+F3 = 3007 Hz     B3 = 115 Hz 
+F4 = 4149 Hz     B4 = 112 Hz 
+

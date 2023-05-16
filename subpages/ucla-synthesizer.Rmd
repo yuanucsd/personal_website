@@ -1,0 +1,110 @@
+---
+title: "Tutorial for UCLA Voice Synthesizer"
+author: "Yuan Chai"
+date: "1/17/2023"
+output: 
+  html_document: 
+    toc: true
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                     fig.align = 'center',
+                     options(warn=-1))
+suppressMessages(library(rmarkdown))
+suppressMessages(library(knitr))
+```
+
+[Back to Yuan Chai's tutorial page](../tutorial.html)
+
+### What is UCLA Voice Synthesizer?
+* A tool for manipulating the source of sound developed by Jody Kreiman, Bruce R. Gerratt, and Norma Antoñanzas-Barroso.
+* Citation: Kreiman, J., Gerratt, B. R., & Antonanzas-Barroso, N. (2006). Analysis and synthesis of pathological voice quality. Unpublished users’ manual.
+
+
+### What can you use UCLA Voice Synthesizer for?
+
+* To reverse a filtered sound to its source
+* To manipulate the source: such as the spectral tilt and noise
+* To manipulate the filter: such as formant frequency and bandwidth
+* To flip the waveform (horizontally or vertically)
+* More to be discovered
+
+
+### Where to find it?
+
+* Program: [here](https://www.uclahealth.org/departments/head-neck-surgery/research/research-labs/bureau-glottal-affairs/software) (Google might regard it as a malware and prohibit you from downloading it. Try other browsers.)
+* Manual: [here](https://www.uclahealth.org/sites/default/files/documents/Analysis%20and%20Synthesis%20of%20Pathological%20Voice%20Quality.pdf)
+* Example sound: [here](https://yuanchaiyc.github.io/website/file/ucla_synthesizer_sound/vowel_a_10000_01182023.wav)
+* Example output: [here](https://github.com/yuanchaiyc/website/tree/main/file/ucla_synthesizer_sound)
+
+### Structure of UCLA voice synthesizer
+
+* Invf.exe: Inverse the filter to source
+* Synthesis.exe: Manipulate the acoustic parameters
+* Sky.exe: Publish the manipulated output to .wav file
+
+### Invf.exe: Inverse the filter to source
+
+* Open a WAVE file (Note: The sampling rate should be 10000 Hz. You can resample your sound file in Edit &#8594; Downsample.)
+* Select a clip of the file that contains at least 8 cycles.
+* Click "FFT" button (the default setting is usually fine). Output: Spectrum in the bottom left.
+* Click "LPC" button (the default setting is usually fine). Output: The filter envelop shows above the spectrum.
+* Mark a period on the waveform. Left click to mark the left boundary; Right click to mark the right boundary.
+* Click "F0" button. Output: The F0 value shows up on the top right corner of the waveform.
+* Click "IF" button to run the inverse filter. Output: Top right: Glottal waveform (in black) and Derivatives of the glottal waveform (in magenta). Top bottom: Source spectrum.
+* To smooth the derivative: Modify the formant frequency and bandwidth values. The smoother the derivative, the better.
+* Save: File &#8594; Custom Save &#8594; Save for Synthesizer &#8594; Windows. The working directory should be the folder where you saved the .exe files. Folders of "SYNTHESIS" and "WORK" are automatically created. You can find the output from the Invf.exe in a folder with the same name of the original waveform.
+
+
+### Synthesis.exe: Manipulate the acoustic parameters
+
+* File &#8594; Open case &#8594; Open the .lv file generated from the Invf.
+* Variables &#8594; Initialize (Default settings are usually fine. The LPC order need to be the same as in Invf.exe. The default is 14.)
+* Source &#8594; LF &#8594; Find LF features automatically.
+* Source &#8594; LF &#8594; Fit an LF model.
+* Click "Display audio waveform" button. Mark the beginning of a cycle.
+* Move cursor to the start of a cycle and Click "Pitch" button. Output: Each cycle is marked with red line.
+* Click "FM" button. Output: Model the F0 contour.
+* Click "AM" button. Output: Model the Amplitude contour.
+* Click "N" button. Output: Model the noise.
+* Click "S" button. Output: Synthesize the voice.
+
+
+##### To manipulate spectral tilt
+* Mark the spectral tilt:
+Mark the left harmonic: Shift + left click
+Mark the right harmonic: Shift + right click
+* To change the value by dragging:
+  + Double left-click the red dot
+  + Move the dot up or down
+  + Double right-click the red dot
+* To change the value by assigning values of spectral tilt:
+  + Type a value in "Source Spectral Slope"
+  + If want to change the value at the left of the tilt: Ctrl + left click
+  + If want to change the value at the right of the tilt: Ctrl + right click
+* To make multiple harmonics smoothed to the tilt:
+  + Point to the middle dot of the spectral tilt
+  + Press and hold the right mouse button
+  + Press and release the left mouse button while holding the right mouse button
+
+##### To manipulate noise level
+* Tremor D: Tremor Deviation; Value of the synthetic tremor frequency deviation from F0 selected with the slider
+* Tremor F: Value of the synthetic tremor cut off frequency selected with the slider
+* Jitter D: Value of the synthetic jitter deviation selected with the slider
+* Shimmer D: Value of the synthetic shimmer deviation selected with the slider
+* Noise (Noise to signal ratio): Value of the synthetic noise selected with the slider
+
+
+##### To save the file
+* File &#8594; Save all
+  + Either save the file to the same folder as the .lv file, or create a new folder to save everything.
+* The synthesized output: .syn (1 second maximum)
+
+### Sky.exe: Publish the manipulated output to .wav file
+* File &#8594; Text Files &#8594; Open &#8594; Select the .syn file produced by Synthesis.exe
+* File &#8594; WAVE Files &#8594; Save &#8594; Save the file to your desired location
+
+
+

@@ -1,0 +1,32 @@
+---
+title: "Tutorials"
+---
+```{r echo=FALSE, message = FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                     fig.align = 'center',
+                     options(warn=-1))
+suppressMessages(library(rmarkdown))
+suppressMessages(library(knitr))
+```
+
+***
+### Software
+***
+
+* VoiceSauce
+    + [Tutorial](subpages/VS-tutorial.html)
+    + [Sample data](subpages/sample/Hawaiian_data.zip)
+    + [Slides](subpages/Tutorial_VS.pdf)
+* [UCLA Voice Synthesizer](subpages/ucla-synthesizer.html)
+
+***
+### R script
+* [Draw waveform and spectrogram in R](subpages/Draw-waveform-and-spectrogram-in-R.html)
+    + [R code on Rstudio cloud](https://posit.cloud/content/5036221)
+    + [Source code and example files on Github](https://github.com/yuanchaiyc/source-code/tree/main/R-Draw-waveform-spectrogram-pitch)
+* [Convert Google ASR output to TextGrid](https://github.com/yuanchaiyc/source-code/tree/main/R-convert-google-asr-to-textgrid)
+
+***
+### Praat script
+
+* [Draw waveform, spectrogram, and pitch with zoom-in](https://github.com/yuanchaiyc/source-code/blob/main/PRAAT-scripts/draw_zoom_in_wave_spectrogram_egg.praat)

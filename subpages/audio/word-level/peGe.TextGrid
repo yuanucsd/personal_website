@@ -1,0 +1,44 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.5032541645874673 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "" 
+        xmin = 0 
+        xmax = 0.5032541645874673 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1599286820423913 
+            text = "" 
+        intervals [2]:
+            xmin = 0.1599286820423913 
+            xmax = 0.2323528962536372 
+            text = "1-e-short-glottal" 
+        intervals [3]:
+            xmin = 0.2323528962536372 
+            xmax = 0.280246328232046 
+            text = "" 
+        intervals [4]:
+            xmin = 0.280246328232046 
+            xmax = 0.3608474698542352 
+            text = "2-e-short-glottal" 
+        intervals [5]:
+            xmin = 0.3608474698542352 
+            xmax = 0.5032541645874673 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "" 
+        xmin = 0 
+        xmax = 0.5032541645874673 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5032541645874673 
+            text = "peGe" 

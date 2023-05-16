@@ -1,0 +1,532 @@
+/**
+ * White theme for reveal.js, modified by Will Styler
+ */
+section.has-dark-background, section.has-dark-background h1, section.has-dark-background h2, section.has-dark-background h3, section.has-dark-background h4, section.has-dark-background h5, section.has-dark-background h6 {
+  color: #fff;
+}
+
+/*********************************************
+ * GLOBAL STYLES
+ *********************************************/
+:root {
+  --r-background-color: #fff;
+  --r-main-font: "HelveticaNeue-Light", "Helvetica Neue", Arial, Helvetica, Geneva, Source Sans Pro, Helvetica, sans-serif;
+  --r-main-font-size: 2em;
+  --r-code-font-size: 2em;
+  --r-sub-font-size: 0.9em;
+  --r-main-color: #000;
+  --r-block-margin: 20px;
+  --r-heading-margin: 0 0 20px 0;
+  --r-heading-font: "HelveticaNeue-Light", "Helvetica Neue", Arial, Helvetica, Geneva, Source Sans Pro, Helvetica, sans-serif;
+  --r-heading-color: #000;
+  --r-heading-line-height: 1.4;
+  --r-heading-letter-spacing: normal;
+  --r-heading-text-transform: none;
+  --r-heading-text-shadow: none;
+  --r-heading-font-weight: 600;
+  --r-heading1-text-shadow: none;
+  --r-heading1-size: 2em;
+  --r-heading2-size: 1.6em;
+  --r-heading3-size: 1.3em;
+  --r-heading4-size: 1em;
+  --r-code-font: monospace;
+  --r-link-color: #006A96;
+  --r-link-color-dark: #1a53a1;
+  --r-link-color-hover: #6ca0e8;
+  --r-ucsdblue:  #2774AE;
+  --r-ucsdyellow: #FFD100;
+  --r-selection-background-color: #98bdef;
+  --r-selection-color: #000;
+  --r-clicker-background-color: #6ba4ff;
+}
+
+.reveal-viewport {
+  background: #fff;
+  background-color: var(--r-background-color);
+}
+
+.reveal {
+  font-family: var(--r-main-font);
+  font-size: var(--r-main-font-size);
+  font-weight: normal;
+  color: var(--r-main-color);
+}
+
+.reveal ::selection {
+  color: var(--r-selection-color);
+  background: var(--r-selection-background-color);
+  text-shadow: none;
+}
+
+.reveal ::-moz-selection {
+  color: var(--r-selection-color);
+  background: var(--r-selection-background-color);
+  text-shadow: none;
+}
+
+.reveal .slides section,
+.reveal .slides section > section {
+  line-height: 1.3;
+  font-weight: inherit;
+}
+
+.reveal .clicker {
+background: var(--r-clicker-background-color);
+background-color: #becdff;
+background-image: url("data:image/svg+xml,%3Csvg width='64' height='64' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M8 16c4.418 0 8-3.582 8-8s-3.582-8-8-8-8 3.582-8 8 3.582 8 8 8zm0-2c3.314 0 6-2.686 6-6s-2.686-6-6-6-6 2.686-6 6 2.686 6 6 6zm33.414-6l5.95-5.95L45.95.636 40 6.586 34.05.636 32.636 2.05 38.586 8l-5.95 5.95 1.414 1.414L40 9.414l5.95 5.95 1.414-1.414L41.414 8zM40 48c4.418 0 8-3.582 8-8s-3.582-8-8-8-8 3.582-8 8 3.582 8 8 8zm0-2c3.314 0 6-2.686 6-6s-2.686-6-6-6-6 2.686-6 6 2.686 6 6 6zM9.414 40l5.95-5.95-1.414-1.414L8 38.586l-5.95-5.95L.636 34.05 6.586 40l-5.95 5.95 1.414 1.414L8 41.414l5.95 5.95 1.414-1.414L9.414 40z' fill='%23ffffff' fill-opacity='0.4' fill-rule='evenodd'/%3E%3C/svg%3E"); 
+}
+
+
+
+/*********************************************
+ * HEADERS
+ *********************************************/
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  margin: var(--r-heading-margin);
+  color: var(--r-heading-color);
+  font-family: var(--r-heading-font);
+  font-weight: var(--r-heading-font-weight);
+  line-height: var(--r-heading-line-height);
+  letter-spacing: var(--r-heading-letter-spacing);
+  text-transform: var(--r-heading-text-transform);
+  text-shadow: var(--r-heading-text-shadow);
+  word-wrap: break-word;
+  text-align: center;
+
+}
+
+.reveal h1 {
+  font-size: var(--r-heading1-size);
+  color:#0c103a;
+}
+
+.reveal h2 {
+  font-size: var(--r-heading2-size);
+  color:#1F2A91;
+}
+
+.reveal h3 {
+  font-size: var(--r-heading3-size);
+}
+
+.reveal h4 {
+  font-size: var(--r-heading4-size);
+}
+
+.reveal h1 {
+  text-shadow: var(--r-heading1-text-shadow);
+}
+
+/*********************************************
+ * OTHER
+ *********************************************/
+.reveal p {
+  margin: var(--r-block-margin) 0;
+  line-height: 1.3;
+}
+
+
+audio {
+  height: 25px;
+  margin: 0;
+}
+
+/* Remove trailing margins after titles */
+.reveal h1:last-child,
+.reveal h2:last-child,
+.reveal h3:last-child,
+.reveal h4:last-child,
+.reveal h5:last-child,
+.reveal h6:last-child {
+  margin-bottom: 0;
+}
+
+/* Ensure certain elements are never larger than the slide itself */
+.reveal img,
+.reveal video,
+.reveal iframe {
+  max-width: 95%;
+  max-height: 95%;
+  	height: 100%;
+	box-sizing: border-box;
+}
+
+.reveal strong,
+.reveal b {
+  font-weight: bold;
+}
+
+.reveal em {
+  font-style: italic;
+}
+
+.reveal ol,
+.reveal dl,
+.reveal ul,
+.reveal li p {
+  text-align: center;
+  margin-bottom: 0.6em;
+  margin-top:0.6em;
+}
+
+.reveal ol li {
+  list-style-type: text;
+}
+
+.reveal ul {
+  list-style-type: none;
+}
+
+.reveal ul ul {
+  list-style-type: none;
+}
+
+.reveal ul ul ul {
+  list-style-type: none;
+}
+
+.reveal ul ul,
+.reveal ul ol,
+.reveal ol ol,
+.reveal ol ul,
+.reveal li ul p{
+  margin-top: -0.75em;
+  color: #585858;
+  font-size: var(--r-sub-font-size);
+}
+
+.reveal .subpoint{
+  margin-top: -0.75em;
+  color: #585858;
+  font-size: var(--r-sub-font-size);
+}
+
+.reveal .hide{
+  display: none;
+}
+
+.reveal dt {
+  font-weight: bold;
+}
+
+.reveal dd {
+  margin-left: 40px;
+}
+
+.reveal blockquote {
+  display: block;
+  position: relative;
+  width: 70%;
+  margin: var(--r-block-margin) auto;
+  padding: 5px;
+  font-style: italic;
+  background: rgba(255, 255, 255, 0.05);
+  box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);
+}
+
+.reveal blockquote p:first-child,
+.reveal blockquote p:last-child {
+  display: inline-block;
+}
+
+.reveal q {
+  font-style: italic;
+}
+
+.reveal pre {
+  display: block;
+  position: relative;
+  width: 120%;
+  text-align: left;
+  font-size: 1em;
+  font-family: var(--r-code-font);
+  line-height: 1.2em;
+  word-wrap: break-word;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.15);
+}
+
+.reveal code {
+  font-family: var(--r-code-font);
+  text-transform: none;
+  tab-size: 2;
+  font-size: 1em;
+}
+
+.reveal pre code {
+  display: block;
+  padding: 5px;
+  overflow: auto;
+  max-height: 400px;
+  word-wrap: normal;
+}
+
+.reveal .code-wrapper {
+  white-space: normal;
+}
+
+.reveal .code-wrapper code {
+  white-space: pre;
+}
+
+.reveal table {
+  margin: auto;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.reveal table th,
+.reveal table td {
+  text-align: left;
+  padding: 0.2em 0.5em 0.2em 0.5em;
+}
+
+.reveal table th[align=center],
+.reveal table td[align=center] {
+  text-align: center;
+}
+
+.reveal table th[align=right],
+.reveal table td[align=right] {
+  text-align: right;
+}
+
+.reveal table tbody tr:last-child th,
+.reveal table tbody tr:last-child td {
+}
+
+.reveal sup {
+  vertical-align: super;
+  font-size: smaller;
+}
+
+.reveal sub {
+  vertical-align: sub;
+  font-size: smaller;
+}
+
+.reveal small {
+  display: inline-block;
+  font-size: 0.6em;
+  line-height: 1.2em;
+  vertical-align: top;
+}
+
+
+
+.reveal text.tiny {
+	font-size: 0.6em;
+	line-height: 1em;	
+  fill:red;
+}
+
+.reveal small * {
+  vertical-align: top;
+}
+
+.reveal img {
+  margin: var(--r-block-margin) 0;
+	height: 100%;
+	max-height: 100%;
+	box-sizing: border-box;
+}
+
+/*********************************************
+ * LINKS
+ *********************************************/
+.reveal a {
+  color: var(--r-link-color);
+  text-decoration: underline;
+  transition: color 0.15s ease;
+}
+
+.reveal a:hover {
+  color: var(--r-link-color-hover);
+  text-shadow: none;
+  border: none;
+}
+
+.reveal .roll span:after {
+  color: #fff;
+  background: var(--r-link-color-dark);
+}
+
+/*********************************************
+ * Frame helper
+ *********************************************/
+.reveal .r-frame {
+  border: 4px solid var(--r-main-color);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+}
+
+.reveal a .r-frame {
+  transition: all 0.15s linear;
+}
+
+.reveal a:hover .r-frame {
+  border-color: var(--r-link-color);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.55);
+}
+
+/*********************************************
+ * NAVIGATION CONTROLS
+ *********************************************/
+.reveal .controls {
+  color: var(--r-ucsdblue);
+}
+
+/*********************************************
+ * PROGRESS BAR
+ *********************************************/
+.reveal .progress {
+  background: var(--r-ucsdblue);
+  color: var(--r-ucsdyellow);
+  height: 7px;
+}
+
+/*********************************************
+ * PRINT BACKGROUND
+ *********************************************/
+@media print {
+  .backgrounds {
+    background-color: var(--r-background-color);
+  }
+}
+
+.reveal img.big {
+	width:auto;
+	border-style: none;
+	height:500px;
+	max-width: 60%;
+	max-height: 60%;
+}
+
+.reveal img.wide {
+	max-width: 100%;
+	border-style: none;
+	height: auto;  
+}
+
+.reveal img.xwide {
+	max-width: 130%;
+	border-style: none;
+	height: auto;  
+}
+
+.reveal img.tall {
+	max-height: 80%;
+	border-style: none;
+	height: auto;  
+}
+
+.reveal img.small {
+	width:auto;
+	height:180px;
+	border-style: none;
+}
+
+.reveal img.tiny {
+	width:auto;
+	height:100px;
+	border-style: none;
+}
+
+.reveal img.padding {
+  margin: 0px 10px;
+  height: 300px;
+  width:auto;
+}
+
+
+.reveal small {
+	font-size: 0.7em;
+	line-height: 1.8em;		
+}
+
+.reveal text.smallred {	
+  fill: red;
+}
+
+
+.reveal lang {
+	font-size: 1.5em;
+	padding:0em;
+	margin-bottom:-1em;
+	font-style:italic;
+}
+
+.reveal ldata {
+	font-size: 0.7em;
+	margin-bottom: 0em;
+	color:#808080;
+	font-style:italic;
+}
+
+.reveal danger {
+	color:#FF0000;
+	font-weight:bold;
+}
+
+.reveal correct {
+	color:#39C900;
+	font-weight:bold;
+}
+
+.reveal clg{
+    	color:#39C900;
+	font-weight:bold;
+}
+
+.reveal clr{
+	color:#FF0000;
+	font-weight:bold;
+}
+
+.reveal clb{
+	color:#0000CC;
+	font-weight:bold;
+}
+
+.reveal clp{
+	color:#6600FF;
+	font-weight:bold;
+}
+
+.reveal clk{
+	color:#708cef;
+	font-weight:bold;
+}
+
+.reveal clo{
+	color:#CC6600;
+	font-weight:bold;
+}
+
+.reveal sc{
+        font-variant: small-caps;
+}
+
+.reveal src {
+	color:#808080;
+	vertical-align: top;
+	font-size:60%;
+	padding-left:0.3em;
+	position:relative;
+	top: -0.3em;
+}
+
+.reveal huge {
+	font-size: 3em;
+	line-height:1.75em;
+	font-weight:bold;
+}
+
+.reveal small * {
+	vertical-align: top;
+	text-decoration: none;
+}
+

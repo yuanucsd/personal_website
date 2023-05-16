@@ -1,0 +1,40 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.9121481733147903 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "" 
+        xmin = 0 
+        xmax = 0.9121481733147903 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1837710083770645 
+            text = "" 
+        intervals [2]:
+            xmin = 0.1837710083770645 
+            xmax = 0.3718403388288536 
+            text = "1-o-short-modal" 
+        intervals [3]:
+            xmin = 0.3718403388288536 
+            xmax = 0.6640194772093011 
+            text = "2-u-long-modal" 
+        intervals [4]:
+            xmin = 0.6640194772093011 
+            xmax = 0.9121481733147903 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "" 
+        xmin = 0 
+        xmax = 0.9121481733147903 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.9121481733147903 
+            text = "kouL" 

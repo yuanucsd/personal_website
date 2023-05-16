@@ -11,3 +11,5 @@ navbar:
       href: publications.html
     - text: "Teaching"
       href: teaching.html
+    - text: "Tutorials"
+      href: tutorial.html
